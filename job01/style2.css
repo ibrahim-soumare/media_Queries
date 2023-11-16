@@ -1,4 +1,4 @@
-/* Pour la résolution entre 1680px et 1920px */
+/* 1680px - 1920px */
 @media screen and (min-width: 1680px) and (max-width: 1920px) {
     body {
         background-color: #ffca4b;
