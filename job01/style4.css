@@ -1,0 +1,6 @@
+/* Pour la résolution inférieure à 1280px */
+@media screen and (max-width: 1279px) {
+    body {
+        background-color: #ffffff;
+    }
+}

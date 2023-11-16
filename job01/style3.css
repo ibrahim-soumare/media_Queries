@@ -1,0 +1,6 @@
+/* Pour la résolution entre 1280px et 1680px */
+@media screen and (min-width: 1280px) and (max-width: 1679px) {
+    body {
+        background-color: #275fa0;
+    }
+}
